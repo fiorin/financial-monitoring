@@ -7,6 +7,7 @@
 ## .: Frontend :.
 
 #### Click [here to see the preview](public/preview.png)
+![](public/preview.png)
 
 The project was conceived as simple monitoring system for a emulated transaction flow.
 
@@ -14,7 +15,7 @@ The following technologies were used in the frontend development:
 
 | What?       | For what?              |
 | ----------- | ---------------------- |
-| Next.js     | Front=end structure.   |
+| Next.js     | Front-end structure.   |
 | Npm         | Dependency management. |
 | Typescript  | Language used.         |
 | ChackraUI   | Components lib.        |
