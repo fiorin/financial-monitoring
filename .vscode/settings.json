@@ -1,0 +1,8 @@
+{
+    "eslint.rules.customizations": [
+        {
+            "rule": "@typescript-eslint/no-this-alias",
+            "severity": "off"
+        }
+    ]
+}
